@@ -1,0 +1,41 @@
+body {
+    background-color: whitesmoke;
+ }
+
+ .circle{    
+     margin: 5%;
+ }
+
+.card {   
+    margin-top: 10%;
+    margin-bottom: 0%;
+}
+
+.card:last-child {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.section1 {
+background-color:lightgray;
+
+}
+
+.section1 img {
+width:108px;
+height:144px;
+}
+
+.section2 {
+    background-color: whitesmoke;
+    margin-bottom: 10%;
+}
+
+.nav-wrapper {
+background-color: white;
+color: black;
+}
+
+.page-footer {
+    background-color: #f67280;
+}
